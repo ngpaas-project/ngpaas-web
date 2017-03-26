@@ -1,6 +1,9 @@
 <div align="center">
         <img width="40%" src="administrativia/images/ngpaas-100.jpg" alt="NGPaaS" title="NGPaaS"></img>
 </div>
+<p align="center">
+ICT-08-2017 NGPaaS
+</p>
 
 # Overview
 The repository contains the web pages for the NGPaaS project.
